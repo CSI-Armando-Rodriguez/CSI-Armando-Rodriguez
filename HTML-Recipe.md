@@ -18,7 +18,7 @@
   <li> lemon juice </li>
   <li> rasberries </li>
   <li> water </li>
-
+</ul>
 
 <h3> Steps: </h3>
 
@@ -36,9 +36,9 @@
   <li> granulated sugar </li>
   <li> rasberries </li>
   <li> water </li>
-
+</ol>
 <img
 src="https://thefirstyearblog.com/wp-content/uploads/2017/07/Classic-Cheesecake-14B-600x903.jpg"
                                    title="Cheesecake"
                                    width="20%"
-                                   height="20%"
+                                   height="20%" />
